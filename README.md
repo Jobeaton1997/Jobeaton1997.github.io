@@ -1,6 +1,12 @@
 # Jobeaton1997 ePortfolio
 Project enhancements utilizing knowledge gained from my SNHU career.
 
+## Artifacts
+- [Milestone 1 Code Review](https://github.com/Jobeaton1997/Jobeaton1997.github.io/tree/main/Milestone%201%20Code%20Review)
+- [Milestone 2 Software Design](https://github.com/Jobeaton1997/Jobeaton1997.github.io/tree/main/Milestone%202%20Software%20Design)
+- [Milestone 3 DSA](https://github.com/Jobeaton1997/Jobeaton1997.github.io/tree/main/Milestone%203%20DSA)
+- [Milestone 4 Databases](https://github.com/Jobeaton1997/Jobeaton1997.github.io/tree/main/Milestone%204%20Databases)
+
 ## Self-Assessment
 
 ## Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
