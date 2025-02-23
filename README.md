@@ -1,4 +1,4 @@
-# Computer_Science_Capstone
+# Jobeaton1997 ePortfolio
 Project enhancements utilizing knowledge gained from my SNHU career.
 
 ## Self-Assessment
